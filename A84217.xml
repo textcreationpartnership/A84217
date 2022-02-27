@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact relation of the surrender of Scarborough Castle, By Sir Hugh Cholmley, governour of the same; to Coll. Sir Matthew Boynton, Colonell Lassels, and Coll. Needham, commanders in chief of the Parliaments forces in Scarborough. Together with a copy of the articles agreed upon at the said surrender. Also, that Rabs Castle, Sir Henry Vanes houses in the Bishoprick of Durham, with all the armes and ammunition therein, is yielded up to the Parliaments forces. Published by authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84217</idno>
+            <idno type="STC">Wing E3698</idno>
+            <idno type="STC">Thomason E294_15</idno>
+            <idno type="STC">ESTC R200184</idno>
+            <idno type="EEBO-CITATION">99860989</idno>
+            <idno type="PROQUEST">99860989</idno>
+            <idno type="VID">113116</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84217)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113116)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 48:E294[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact relation of the surrender of Scarborough Castle, By Sir Hugh Cholmley, governour of the same; to Coll. Sir Matthew Boynton, Colonell Lassels, and Coll. Needham, commanders in chief of the Parliaments forces in Scarborough. Together with a copy of the articles agreed upon at the said surrender. Also, that Rabs Castle, Sir Henry Vanes houses in the Bishoprick of Durham, with all the armes and ammunition therein, is yielded up to the Parliaments forces. Published by authority.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Field.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Annotation on Thomason copy: "July 31".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scarborough (England) --  History.</term>
+               <term>Durham (England : County) --  History.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113116:1"/>
+            <pb facs="tcp:113116:1" rendition="simple:additions"/>
+            <p>An Exact RELATION OF The Surrender of <hi>Scarborough</hi> CASTLE, By Sir <hi>Hugh Cholmley,</hi> Governour of the ſame; to Coll. Sir <hi>Matthew Boynton,</hi> Colonell <hi>Laſſels,</hi> and Coll. <hi>Needham,</hi> Commanders in chief of the Parliaments Forces in <hi>Scarborough.</hi>
+            </p>
+            <p>Together with a Copy of the Articles agreed upon at the ſaid Surrender.</p>
+            <p>Alſo, that <hi>Rabs</hi> Caſtle, Sir <hi>Henry Vanes</hi> houſes in the Bi<g ref="char:EOLhyphen"/>ſhoprick of <hi>Durham,</hi> with all the Armes and Ammu<g ref="char:EOLhyphen"/>nition therein, is yielded up to the Parliaments forces.</p>
+            <p>Publiſhed by Authority.</p>
+            <p>
+               <add>July 31</add> London, Printed for <hi>Iohn Field.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:113116:2"/>
+            <pb n="3" facs="tcp:113116:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Received yours by the laſt, for which I return thanks: For News here, what we have ſo long weekly ex<g ref="char:EOLhyphen"/>pected, is now happily effected and brought to paſſe, namely, the Sur<g ref="char:EOLhyphen"/>render of <hi>Pontefract</hi> and <hi>Scarbrough</hi> Caſtles: For the former of which, the yielding of <hi>Pon<g ref="char:EOLhyphen"/>tefract,</hi> I doubt not but you have it with you already, Sir <hi>Rowland Everard</hi> being ſent to the Parliament with Letters from the Committee at <hi>York,</hi> of the parti<g ref="char:EOLhyphen"/>culars thereof: That Siege was gallantly carried on by the ever Renowned and experienced Commander, Major Generall <hi>Poyntz,</hi> who by his prudence pre<g ref="char:EOLhyphen"/>vented all the Enemies deſignes for the Relief thereof: For the particulars of the latter, I ſhall refer you to the incloſed Articles, being an exact Copy agreed on be<g ref="char:EOLhyphen"/>tween Col: Sir <hi>Mathew Boynton,</hi> Col: <hi>Laſſels,</hi> and Col: <hi>Needham,</hi> Commanders in Chief of the Parliaments Forces in <hi>Scarbrough,</hi> and Sir <hi>Hugh Cholmley</hi> Apoſtate Governour of the Caſtle: I ſhall only adde theſe en<g ref="char:EOLhyphen"/>ſuing paſſages; Many of Sir <hi>Hughs</hi> Officers and Soul<g ref="char:EOLhyphen"/>diers
+<pb n="4" facs="tcp:113116:3"/>belonging to the Caſtle, were in ſuch a weak condition, that ſome of them were brought forth i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſheets, others were helped out between two men, the reſt were not very fit to March. The generall and common Diſeaſe amongſt them, was the Scurvey, which made ſuch a mortallity among the Souldiers (as before) that Sir <hi>Hugh</hi> haſtned to make Conditions: The women in <hi>Scarbrough</hi> could hardly be kept from ſtoning of Sir <hi>Hugh Cholmley.</hi> For other News here I am Informed, That <hi>Rabs</hi> Caſtle, Sir <hi>Henry Vanes</hi> houſes in the Biſhoprick of <hi>Durham,</hi> with all the Arms and Ammunition therein, is yielded up to the Parlia<g ref="char:EOLhyphen"/>ments Forces that beſieged it. I muſt not pretermit a gallant Service performed by the ever Honoured Major Gen: <hi>Poyntz</hi> his forces, againſt the <hi>Skiptoners,</hi> the manner thus; A Troop of Col: <hi>Brights,</hi> Commanded by Lieutenant <hi>Hatfield</hi> having In<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elligence, that about fourſcore of the Enemy were advanced from <hi>Skipton</hi> towards <hi>Welbeck,</hi> (which the <hi>Newarkers</hi> yet keep) fell upon them, Routed them, ſlew divers upon the place, took Sir <hi>Charles Howard</hi> of <hi>Naworth</hi> in <hi>Cumberland,</hi> di<g ref="char:EOLhyphen"/>vers other Officers, and about twenty Souldiers. Sir, This is all for the preſent, hereafter I ſhall not fail to inform you of all the paſſages: In the mean time, I Reſt,</p>
+            <closer>
+               <dateline>
+                  <hi>Kingſton</hi> upon <hi>Hull,</hi> 
+                  <date>Iuly 26. 1645.</date>
+               </dateline>
+               <signed>Yours, &amp;c.</signed>
+            </closer>
+         </div>
+         <div type="articles_of_surrender">
+            <pb n="5" facs="tcp:113116:3"/>
+            <head>Articles agreed and concluded upon <date>the 22. day of <hi>Iuly</hi> 1645.</date> betwixt the Honourable Sir <hi>Matthew Boynton,</hi> Knight and Baronet, one of the Military Committee for the Northern Aſſociation: Coll. <hi>Francis Laſſells,</hi> Coll. <hi>Simon Needham</hi> Commanders in chief of the Forces for the King and Parliament in <hi>Scarborough:</hi> And the Honourable, Sir <hi>Hugh Cholmley,</hi> Knight and Ba<g ref="char:EOLhyphen"/>ronet, Governour of the Caſtle there; concerning the Rendition thereof to the perſons before named.</head>
+            <p n="1">I. THat the Caſtle be ſurrendred upon <hi>Friday</hi> next, being the 25. day of this i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtant <hi>July</hi> 1645. by twelve of the Clock at noon: That all the Armes, Ord<g ref="char:EOLhyphen"/>nance, Ammunition, Proviſion and goods of what ſort ſoever, now in, and about the Caſtle (except what is hereafter excepted) ſhall be delivered to the Commanders in Chief in <hi>Scarborough,</hi> or to whom they ſhall appoint, to the uſe of the King and Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p n="2">II. That all Priſoners now in the Caſtle be ſet at liberty within ſix houres after the ſealing of theſe Articles.</p>
+            <p n="3">III. That the Governour Sir <hi>Hugh Cholmley,</hi> and thoſe Officers, and Gentlemen Souldiers, if he deſire it, ſhall have a ſafe Convoy from hence into <hi>Holland,</hi> or be ſafely conveyed to <hi>Newark,</hi> whether they ſhall
+<pb n="6" facs="tcp:113116:4"/>chooſe, and if any after their coming to <hi>Newark</hi> ſhall then reſolve to go into <hi>Holland,</hi> giving notice thereof within ſix dayes to the Committee for Military Af<g ref="char:EOLhyphen"/>fairs at <hi>York,</hi> they ſhall have Paſſes from thence, to take ſhipping at <hi>Hull, Scarborough,</hi> and <hi>Birdlington</hi>-key, and be there Accomodated, paying ſmall Rates, ſo that they take the firſt opportunity of wind and ſhipping. And ſuch other who deſire them, ſhall have Paſſes from the ſaid Committee to go to the Kings Army, or any of his Garriſons, as they pleaſe: they travelling not above twenty in a company, where the Governour or Colonell ſhall be in perſon, otherwiſe not above ten in a company, the time to be permitted in their ſeverall paſſes, as the diſtance of the places they go to ſhall require, none of them paſ<g ref="char:EOLhyphen"/>ſing through any Garriſon for the King and Parlia<g ref="char:EOLhyphen"/>ment, if there be another way.</p>
+            <p n="4">IV. That no perſon whatſoever going from this Caſtle be Plundered, Arreſted, or ſtaid upon any ground or pretence whatſoever, and in ſuch caſe upon complaint made to the aforeſaid Committee at <hi>York,</hi> to be ſpeedily redreſſed.</p>
+            <p n="5">V. That the Lady <hi>Cholmley</hi> ſhall have liberty to live at her own houſe in <hi>Whitby,</hi> and enjoy ſuch part of her eſtate, as is allowed by Ordinance of Parlia<g ref="char:EOLhyphen"/>ment; That ſhe may have two men ſervants, and two horſes to carry her ſelf and ſuch neceſſary things as ſhall be granted her.</p>
+            <p n="6">VI. That all inferiour Offices, Common Soul<g ref="char:EOLhyphen"/>diers, and others, who have deſire to live at home, ſhall have Paſſes granted them for that end, and ſhall not be forced to take up Armes againſt their mindes:
+<pb n="7" facs="tcp:113116:4"/>That the ſick and wounded ſhall be provided for untill their recovery, and then have Paſſes to Travell to what place they pleaſe, having ſufficient time allowed for their journey, and two perſons permitted to take care of them.</p>
+            <p n="7">VII. That the Governour march on his own horſe, with Sword, Piſtolls, and defenſive Armes, and all Field Officers upon their owne Horſes, with their Swords and Piſtolls, all Captaines whatſoever, Lieu<g ref="char:EOLhyphen"/>tenants, Cornets of Horſe in like manner, three Ser<g ref="char:EOLhyphen"/>vants of the Governour, and one for every Field Of<g ref="char:EOLhyphen"/>ficer as aforeſaid, and all other Officers and Soul<g ref="char:EOLhyphen"/>diers whatſoever on foot, without any other Armes then their ſwords, and not to be compelled to march above ten miles a day.</p>
+            <p n="8">VIII. That all Officers and Souldiers may carry upon their perſons what is really their owne, that nothing be carried in cloath-bags or ſnap-ſackes, but their owne wearing apparrell, writings, E<g ref="char:EOLhyphen"/>vidences and Bills.</p>
+            <p n="9">IX. That every Officer, Gentleman and Clergy<g ref="char:EOLhyphen"/>man, may have liberty to buy, or lawfully procure a travelling horſe for himſelfe and his ſervant, that all ſicke and lame men may enjoy the ſame priviledge.</p>
+            <p n="10">X. That all Gentlemen of quality and Clergymen have liberty to march, Gentlemen with their ſwords, that none of them carry above the value of 5, l. in mony or Plate about their perſons, and nothing in their cloth<g ref="char:EOLhyphen"/>bags, but as is expreſſed in the eighth Article.</p>
+            <p n="11">XI. That there be no fraud or deceit whatſoever u<g ref="char:EOLhyphen"/>ſed, in ſpoiling or imbezzelling any thing before men<g ref="char:EOLhyphen"/>tioned, or comprized in theſe Articles; and if any of
+<pb n="8" facs="tcp:113116:5"/>them ſhall be violated, the party offending ſhall bee delivered to the Commander in chiefe where the fact ſhall be done, to give ſatisfaction for his offence, and his particular act ſhall not be underſtood as a breach of theſe Articles, nor be prejudiciall to any other:</p>
+            <closer>
+               <signed>Hugh Cholmely.</signed>
+            </closer>
+            <postscript>
+               <p>We doe atteſt that the within written Articles were ſigned and ſealed by S<hi rend="sup">r</hi> 
+                  <hi>Hugh Cholmley</hi> in our preſence,</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>Thomas Gower.</item>
+                        <item>Thomas Crompton.</item>
+                        <item>Richard Legard.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
